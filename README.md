@@ -25,9 +25,7 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 4. Feature importance analysis
 
 ## Results
-The approach successfully segmented customers into meaningful risk categories
-and identified key behavioral indicators associated with higher risk.
-
+On going - TBD
 ## Notes
 This project emphasizes interpretability and analytical reasoning over
 complex model architectures.
